@@ -1,0 +1,3 @@
+<tenplate>
+  Exemplo Page
+</template>
